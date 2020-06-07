@@ -10,9 +10,13 @@ html{
   overflow: hidden;
 }
 .iniNav{
+  margin: auto;
+  text-align: center;
+  background-color: grey;
   text-align: center;
   position: relative;
   top: 385px;
+  width: 300px;
 }
 ul {
  
@@ -151,7 +155,7 @@ h1 {
 @media only screen and (min-width: 900px){
 .projectEx{
   width: 1000px;
-  height: 600px;
+  height: 600pxd;
 }
 }
 @media only screen and (min-width: 1025px) {
